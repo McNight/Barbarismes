@@ -10,7 +10,7 @@ Le second groupe contient uniquement une liste de mots les uns après les autres
 
 ## Résultats
 
-Voir [RESULTS.md](https://github.com/McNight/Barbarismes/blob/master/README.md "Résultats").
+Voir [RESULTS.md](https://github.com/McNight/Barbarismes/blob/master/RESULTS.md "Résultats").
 
 ## Notes
 C'est codé dans un Playground en Swift (nécessite Xcode)
