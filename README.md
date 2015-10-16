@@ -10,10 +10,14 @@ Le second groupe contient uniquement une liste de mots les uns après les autres
 
 ## Résultats
 
-Voir RESULTS.md
+Voir [RESULTS.md](https://github.com/McNight/Barbarismes/blob/master/README.md "Résultats").
 
 ## Notes
 C'est codé dans un Playground en Swift (nécessite Xcode)
 Les résultats devraient apparaître instantanément.
 N'oubliez pas à cliquer sur la petite flèche qui pointe vers le bas, en bas à droite de la fenêtre de Playground pour afficher la console.
 Enfin, n'hésitez pas à tester vos phrases ou vos groupes de mots en changeant la constante `phrase` (n'oubliez pas les guillemets).
+
+## Liens
+
+  *  [Mots crées par le script de ScienceEtonnante](http://www.science-etonnante.com/output_FR.txt "Mots")
